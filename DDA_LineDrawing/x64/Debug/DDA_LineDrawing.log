@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Kajol\Desktop\T\Computer_Graphics_Lab\DDA_LineDrawing\Source.cpp(26,16): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Kajol\Desktop\T\Computer_Graphics_Lab\DDA_LineDrawing\Source.cpp(26,13): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Kajol\Desktop\T\Computer_Graphics_Lab\DDA_LineDrawing\Source.cpp(35,17): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Kajol\Desktop\T\Computer_Graphics_Lab\DDA_LineDrawing\Source.cpp(35,14): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  DDA_LineDrawing.vcxproj -> C:\Users\Kajol\Desktop\T\Computer_Graphics_Lab\x64\Debug\DDA_LineDrawing.exe
+C:\Users\Kajol\Desktop\T\Computer_Graphics_Lab\packages\nupengl.core.redist.0.1.0.1\build\native\nupengl.core.redist.targets(83,5): warning MSB3026: Could not copy "C:\Users\Kajol\Desktop\T\Computer_Graphics_Lab\packages\nupengl.core.redist.0.1.0.1\build\native\../..//build/native/bin/x64\freeglut.dll" to "C:\Users\Kajol\Desktop\T\Computer_Graphics_Lab\x64\Debug\freeglut.dll". Beginning retry 1 in 1000ms. The process cannot access the file 'C:\Users\Kajol\Desktop\T\Computer_Graphics_Lab\x64\Debug\freeglut.dll' because it is being used by another process. 
